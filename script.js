@@ -1,4 +1,5 @@
-const API = "https://chat.andriszeile.repl.co"
+const API = 'https://chat.andriszeile.repl.co'
+
 
 let zina = document.querySelector('.manaZina');
 let zinas = document.querySelector('.chataZinas');
