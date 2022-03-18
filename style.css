@@ -1,0 +1,36 @@
+body
+{
+    background: url(backgr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper
+{
+    background: grey;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgba(80, 0, 0);
+    padding: 5px;
+    margin: auto;
+
+    /*zemāk paraugs vertik. un horizont. centrēšanai*/
+    /*position: absolute;
+    top:50%; margin-top:-250px;
+    left: 50%; margin-left:-250px;*/
+
+    /*bonus dekorācijas*/
+    /*font-family: Arial, Helvetica, sans-serif;*/ /*fonti*/
+    /*border-radius: 10px;*/ /*apaļi stūri*/
+    /*box-shadow: 3px 3px 15px#5E0000;*/ /*ēna*/
+    /*opacity: 0.5;*/ /*caurspīdīgums*/    
+}
+
+.chataZinas
+{
+    background: whitesmoke;
+    height: 300px;
+    color: red;
+    padding: 5px;
+    overflow: auto;
+}
