@@ -32,5 +32,6 @@ body
     height: 300px;
     color: red;
     padding: 5px;
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
